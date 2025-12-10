@@ -1,4 +1,8 @@
-# 👋 Hi, I’m FluxShard
+<div align="center">
+  <img src="https://c.tenor.com/tLNeXXuNJikAAAAd/tenor.gif" width="260" alt="gif"/>
+  
+  # 👋 Hi, I’m **FluxShard**
+</div>
 
 🛡 Cybersecurity & software enthusiast  
 🐧 Linux-first mindset  
@@ -8,11 +12,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Focused on cybersecurity, Linux systems, and secure software development
-- 🐍 Primary language: Python
-- ⚙️ Also working with C++
-- 🔐 Interested in red-team mindset, system internals, and automation
-- 📚 Prefer hands-on practice, labs, and real tooling over theory
+- 🎯 Focused on cybersecurity, Linux systems, and secure software development  
+- 🐍 Primary language: Python  
+- ⚙️ Also working with C++  
+- 🔐 Interested in red-team mindset, system internals, and automation  
+- 📚 Prefer hands-on practice, labs, and real tooling  
 
 ---
 
@@ -34,19 +38,52 @@
 ---
 
 ## 🛠 Areas of Interest
-- 🛡 Cybersecurity fundamentals
-- 🔍 Red Team concepts & mindset
-- 🧠 Linux internals and system behavior
-- ⚙️ DevSecOps basics and automation
-- 🧪 Small tools, scripts, and experiments
+- 🛡 Cybersecurity fundamentals  
+- 🔍 Red Team concepts & mindset  
+- 🧠 Linux internals  
+- ⚙️ DevSecOps basics & automation  
+- 🧪 Small tools, scripts, and experiments  
 
 ---
 
 ## 📚 Currently Learning
-- Secure coding practices
-- Linux internals (processes, permissions, networking)
-- DevSecOps workflows
-- Practical cybersecurity tooling
+- Secure coding practices  
+- Linux internals & system architecture  
+- DevSecOps pipelines  
+- Practical cybersecurity tooling  
+
+---
+
+## 📌 Featured Projects
+> *(появятся после первых репозиториев)*  
+
+- 🔜 **Security Tools Collection**  
+- 🔜 **Linux Internals Playground**  
+- 🔜 **Python Automation Scripts**  
+
+---
+
+## 🧪 Labs & Experiments
+> *(заранее подготовленные места под будущий контент — отлично смотрятся на профиле)*  
+
+- 🧩 Syscalls exploration  
+- 🐧 Linux privilege escalation lab  
+- 🛠 Bash / Python mini-tools  
+- 🧱 Network simulation sandbox  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=flux-shard&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+<!-- Streaks -->
+<img src="https://streak-stats.demolab.com?user=flux-shard&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
 
 ---
 
@@ -56,4 +93,8 @@
 
 ---
 
-> “Learning by building, breaking, and fixing.”
+<div align="center">
+  
+  > “Learning by building, breaking, and fixing.”
+
+</div>
