@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://c.tenor.com/tLNeXXuNJikAAAAd/tenor.gif" width="400" alt="gif"/>
   
-  # 👋 Hi, I’m **FluxShard**
+  <h1>👋 Hi, I’m <b>FluxShard</b></h1>
 </div>
 
 🛡 Cybersecurity & software enthusiast  
@@ -14,7 +14,8 @@
 ## 👨‍💻 About Me
 - 🎯 Focused on cybersecurity, Linux systems, and secure software development  
 - 🐍 Primary language: Python  
-- ⚙️ Also working with C++  
+- ⚙️ Also working with C++ and Java  
+- 🌐 Basic web stack: HTML & CSS  
 - 🔐 Interested in red-team mindset, system internals, and automation  
 - 📚 Prefer hands-on practice, labs, and real tooling  
 
@@ -23,24 +24,26 @@
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" />
+</p>
 
 ### 🖥 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
 ### ⚙️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,bash" />
+</p>
 
 ---
 
 ## 🛠 Areas of Interest
 - 🛡 Cybersecurity fundamentals  
 - 🔍 Red Team concepts & mindset  
-- 🧠 Linux internals  
+- 🧠 Linux internals and system behavior  
 - ⚙️ DevSecOps basics & automation  
 - 🧪 Small tools, scripts, and experiments  
 
@@ -55,46 +58,43 @@
 ---
 
 ## 📌 Featured Projects
-> *(появятся после первых репозиториев)*  
+> *(will be added as repositories grow)*
 
 - 🔜 **Security Tools Collection**  
 - 🔜 **Linux Internals Playground**  
-- 🔜 **Python Automation Scripts**  
+- 🔜 **Python Automation Scripts**
 
 ---
 
 ## 🧪 Labs & Experiments
-> *(заранее подготовленные места под будущий контент — отлично смотрятся на профиле)*  
-
-- 🧩 Syscalls exploration  
+- 🧩 Syscalls & process behavior exploration  
 - 🐧 Linux privilege escalation lab  
 - 🛠 Bash / Python mini-tools  
-- 🧱 Network simulation sandbox  
+- 🧱 Network & system sandbox experiments  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=flux-shard&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-<!-- Streaks -->
-<img src="https://streak-stats.demolab.com?user=flux-shard&theme=tokyonight&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=flux-shard&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=flux-shard&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
 ## 🌐 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/FluxShard)
-[![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok)](https://tiktok.com/@FluxShard)
+<p align="left">
+  <a href="https://t.me/FluxShard">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  <a href="https://tiktok.com/@FluxShard">
+    <img src="https://skillicons.dev/icons?i=tiktok" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  
-  > “Learning by building, breaking, and fixing.”
-
+  <i>“Learning by building, breaking, and fixing.”</i>
 </div>
