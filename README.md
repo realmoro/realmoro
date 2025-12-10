@@ -4,6 +4,20 @@
   <h1>👋 Hi, I’m <b>FluxShard</b></h1>
 </div>
 
+<div align="center">
+  
+### 🌐 Connect with Me
+
+<a href="https://t.me/FluxShard">
+  <img src="https://skillicons.dev/icons?i=telegram" height="40"/>
+</a>
+<a href="https://tiktok.com/@FluxShard">
+  <img src="https://skillicons.dev/icons?i=tiktok" height="40"/>
+</a>
+
+</div>
+
+
 🛡 Cybersecurity & software enthusiast  
 🐧 Linux-first mindset  
 ⚙️ DevSecOps-oriented thinking  
@@ -86,21 +100,28 @@
 
 </div>
 
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://t.me/FluxShard">
-    <img src="https://skillicons.dev/icons?i=telegram" />
-  </a>
-  <a href="https://tiktok.com/@FluxShard">
-    <img src="https://skillicons.dev/icons?i=tiktok" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
   <i>“Learning by building, breaking, and fixing.”</i>
 </div>
+
+---
+
+<div align="center">
+
+### 💸 Support / USDT (TRC-20)
+
+**USDT (TRC-20):**  
+`TXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
+
+<br/>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=TXXXXXXXXXXXXXXXXXXXXXXXXXXXX" alt="USDT TRC20 QR"/>
+
+<br/>
+
+<sub>TRON network • USDT TRC-20 only</sub>
+
+</div>
+
