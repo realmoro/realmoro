@@ -5,17 +5,19 @@
 </div>
 
 <div align="center">
-  
+
 ### 🌐 Connect with Me
 
 <a href="https://t.me/FluxShard">
-  <img src="https://skillicons.dev/icons?i=telegram" height="40"/>
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" height="40" />
 </a>
+&nbsp;&nbsp;
 <a href="https://tiktok.com/@FluxShard">
-  <img src="https://skillicons.dev/icons?i=tiktok" height="40"/>
+  <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="40" />
 </a>
 
 </div>
+
 
 
 🛡 Cybersecurity & software enthusiast  
