@@ -1,34 +1,46 @@
-# FluxShard 👾
+# 👋 Hi, I’m FluxShard
 
-Cybersecurity & software enthusiast with a strong Linux background.  
-Focused on learning through practice: building systems, breaking them, and fixing the weak spots.
-
----
-
-## 🛠 Tech Stack
-- **Languages:** Python, C++
-- **Systems:** Linux (daily driver)
-- **Interests:** Cybersecurity, DevSecOps, system internals, tooling
+🛡 Cybersecurity & software enthusiast  
+🐧 Linux-first mindset  
+🧠 Learning by building, breaking, and fixing
 
 ---
 
-## 🎯 What I Do
-- Explore cybersecurity fundamentals and practical attack/defense concepts  
-- Build small tools and experiments to understand how things work under the hood  
-- Learn by doing, documenting, and improving
+## 👨‍💻 About Me
+- 🎯 Interested in cybersecurity, system internals, and secure development
+- 🐍 Python & C++ as primary languages
+- 🧩 Exploring DevSecOps and automation
+- ⚙️ Prefer practical learning over theory
+
+---
+
+## 🧰 Technologies
+![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git)
+
+---
+
+## 🛠 Tools & Environment
+- Linux (daily driver)
+- Git / GitHub
+- Bash / shell scripting
+- Security & system tooling
 
 ---
 
 ## 📚 Currently Learning
-- Secure software development principles  
-- DevSecOps workflows and automation  
-- Deeper Linux internals and low-level behavior
+- Secure software development
+- DevSecOps fundamentals
+- Low-level Linux behavior
+- Practical cybersecurity labs
 
 ---
 
-## 🌐 Links
-- Telegram: https://t.me/FluxShard  
-- TikTok: https://tiktok.com/@FluxShard
+## 🌐 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram)](https://t.me/FluxShard)
+[![TikTok](https://img.shields.io/badge/TikTok-323330?style=for-the-badge&logo=tiktok)](https://tiktok.com/@FluxShard)
 
 ---
 
