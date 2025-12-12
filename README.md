@@ -115,11 +115,11 @@
 ### 💸 Support / USDT (TRC-20)
 
 **USDT (TRC-20):**  
-`TXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
+`TW5GB2jq3nwNP9xiaG2dxbRfizmwSA6j24`
 
 <br/>
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=TXXXXXXXXXXXXXXXXXXXXXXXXXXXX" alt="USDT TRC20 QR"/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=TW5GB2jq3nwNP9xiaG2dxbRfizmwSA6j24" alt="USDT TRC20 QR"/>
 
 <br/>
 
