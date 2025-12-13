@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://c.tenor.com/tLNeXXuNJikAAAAd/tenor.gif" width="400" alt="gif"/>
   
-  <h1>👋 Hi, I’m <b>FluxShard</b></h1>
+  <h1>👋 Hi, I’m <b>Flux</b></h1>
 </div>
 
 <div align="center">
