@@ -1,18 +1,18 @@
 <div align="center">
   <img src="https://c.tenor.com/tLNeXXuNJikAAAAd/tenor.gif" width="400" alt="gif"/>
   
-  <h1>👋 Hi, I’m <b>Flux</b></h1>
+  <h1>👋 Hi, I’m <b>Moro</b></h1>
 </div>
 
 <div align="center">
 
 ### 🌐 Connect with Me
 
-<a href="https://t.me/FluxShard">
+<a href="https://t.me/Moro">
   <img src="https://cdn.simpleicons.org/telegram/ffffff" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://tiktok.com/@FluxShard">
+<a href="https://tiktok.com/@Moro">
   <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="40" />
 </a>
 
