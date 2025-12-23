@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/tLNeXXuNJikAAAAd/tenor.gif" width="400" alt="gif"/>
+  <img src="https://tenor.com/ru/view/simo-haya-gif-7424688358332580632" width="400" alt="gif"/>
   
   <h1>👋 Hi, I’m <b>Moro</b></h1>
 </div>
