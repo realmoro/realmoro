@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/hacker-hacking-anonymous-computer-dark-gif-24573642.gif" width="400" />
+  <img src="https://tenor.com/view/hacker-hacking-anonymous-computer-dark-gif-24573642.gif" />
 
   <h1>👋 Hi, I’m <b>Moro</b></h1>
 </div>
