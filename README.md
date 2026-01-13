@@ -9,11 +9,11 @@
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://t.me/Moro">
+  <a href="https://t.me/Mororpm">
     <img src="https://cdn.simpleicons.org/telegram/ffffff" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://tiktok.com/@Moro">
+  <a href="https://tiktok.com/@Mororpm">
     <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="32" />
   </a>
 </p>
