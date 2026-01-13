@@ -43,7 +43,7 @@ No theory without practice.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css" />
 </p>
 
 ### Design & Motion
