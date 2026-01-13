@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="02f0ca5bc225e6ad53cdbae451bfd298.jpg" width="360" />
+  <img src=https://c.tenor.com/wrZqH0ie95QAAAAC/tenor.gif" width="360" />
   <h1>M0Ro</h1>
   <p>Design • 3D • Full-Stack • Cybersecurity</p>
 </div>
