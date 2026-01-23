@@ -1,7 +1,7 @@
 <div align="center">
   <img src=https://c.tenor.com/wrZqH0ie95QAAAAC/tenor.gif" width="400" />
   <h1>M0Ro</h1>
-  <p>Design • 3D • Full-Stack • Cybersecurity</p>
+  <p>Design • 3D • Full-Stack</p>
 </div>
 
 ---
@@ -43,7 +43,7 @@ No theory without practice.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css,js" />
 </p>
 
 ### Design & Motion
