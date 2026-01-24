@@ -13,6 +13,10 @@
     <img src="https://cdn.simpleicons.org/telegram/ffffff" height="32" />
   </a>
   &nbsp;&nbsp;
+   <a href="https://linktr.ee/realmoro">
+    <img src="https://cdn.simpleicons.org/linktree/ffffff" height="32" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://tiktok.com/@Mororpm">
     <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="32" />
   </a>
