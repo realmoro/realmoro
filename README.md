@@ -13,12 +13,12 @@
     <img src="https://cdn.simpleicons.org/telegram/ffffff" height="32" />
   </a>
   &nbsp;&nbsp;
-   <a href="https://linktr.ee/realmoro">
-    <img src="https://cdn.simpleicons.org/linktree/ffffff" height="32" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://tiktok.com/@Mororpm">
     <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="32" />
+  </a>
+    &nbsp;&nbsp;
+   <a href="https://twitch.tv/mororpm">
+    <img src="https://cdn.simpleicons.org/twitch/ffffff" height="32" />
   </a>
 </p>
 
@@ -36,8 +36,8 @@ No theory without practice.
 - Full-stack web development  
 - Backend APIs and services  
 - Frontend interfaces and SPA apps  
-- Database design  
-- Python automation & scripts  
+- Database design
+- Python telegram BOTs
 - Personal tools and small utilities  
 
 ---
