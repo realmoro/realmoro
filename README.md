@@ -24,14 +24,6 @@
 
 ---
 
-## About
-Full-stack developer focused on building real-world applications and practical software solutions.
-
-Work is centered around clean architecture, scalable systems, and hands-on development.  
-No theory without practice.
-
----
-
 ## What I Do
 - Full-stack web development  
 - Backend APIs and services  
