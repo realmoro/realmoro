@@ -26,9 +26,8 @@
 
 ## About
 
-Just building things I find useful.  
-Web apps, bots, small tools, automation.  
-Learning by doing. Shipping by default.
+Self-taught full-stack dev who builds things for fun and for real life.
+I like automating everything, writing bots, and breaking systems just to understand how they work.
 
 ---
 
@@ -39,14 +38,9 @@ Learning by doing. Shipping by default.
   <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cs" />
 </p>
 
-### Systems
+### Tools & IDE
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=github,bash,vscode,vs,vim" />
+  <img src="https://skillicons.dev/icons?i=github,bash,vscode,vim" />
 </p>
 
 ---
