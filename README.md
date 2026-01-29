@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="www.gifcen.com%2Fwp-content%2Fuploads%2F2022%2F04%2Fgojo-gif-3.gif&f=1&nofb=1&ipt=e0dd46d3e24b0a7175484add51bf1305d620bc761313032623e6185c2d573d22" width="400" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif-3.gif" width="400" />
   <h1>M0Ro</h1>
   <p>Full-Stack Developer</p>
 </div>
