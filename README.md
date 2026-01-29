@@ -46,7 +46,7 @@ Learning by doing. Shipping by default.
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=github,bash,vscode,vs,vim" />
 </p>
 
 ---
