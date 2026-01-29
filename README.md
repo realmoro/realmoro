@@ -33,8 +33,20 @@ Learning by doing. Shipping by default.
 ---
 
 ## Stack
+
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cs,linux,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cs" />
+</p>
+
+### Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
 </p>
 
 ---
