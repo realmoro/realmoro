@@ -1,93 +1,70 @@
 <div align="center">
   <img src="https://c.tenor.com/wrZqH0ie95QAAAAC/tenor.gif" width="400" />
   <h1>M0Ro</h1>
-  <p>Full-Stack Developer</p>
+  <p>Full-Stack Developer • bots • tools • automation</p>
 </div>
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="https://t.me/realmoro">
+  <a href="https://t.me/mororpm">
     <img src="https://cdn.simpleicons.org/telegram/ffffff" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tiktok.com/@Mororpm">
     <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="32" />
   </a>
-    &nbsp;&nbsp;
-   <a href="https://twitch.tv/mororpm">
+  &nbsp;&nbsp;
+  <a href="https://twitch.tv/mororpm">
     <img src="https://cdn.simpleicons.org/twitch/ffffff" height="32" />
   </a>
 </p>
 
 ---
 
-## What I Do
-- Full-stack web development  
-- Backend APIs and services  
-- Frontend interfaces and SPA apps  
-- Database design
-- Python telegram BOTs
-- Personal tools and small utilities  
+## About
+
+Just building things I find useful.  
+Web apps, bots, small tools, automation.  
+Learning by doing. Shipping by default.
 
 ---
 
-## Tech Stack
-
-### Languages
+## Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js" />
-</p>
-
-### Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cs,linux,git,github,vscode,bash" />
 </p>
 
 ---
 
-## Areas of Focus
-- Frontend development  
-- Backend development  
-- API architecture  
-- Databases  
-- Automation & tooling  
-- Clean and maintainable code  
+## What I usually build
+- full-stack web apps  
+- backend APIs  
+- telegram bots  
+- automation scripts  
+- small personal utilities  
 
 ---
 
-## Currently Practicing
-- Full-stack project structure  
-- Backend performance optimization  
-- Database design patterns  
-- Automation scripts  
-- Building real production-ready apps  
-
----
-
-## Featured Projects
-- Full-Stack Web Applications  
-- Backend APIs  
-- Automation Tools & Scripts  
+## Projects
+- Telegram bots  
+- Automation tools  
+- Backend services  
+- Experimental side projects  
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realmoro&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=realmoro&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mororpm&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mororpm&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Build. Ship. Improve. Repeat.</sub>
+  <sub>stay calm • keep building</sub>
 </div>
